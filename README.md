@@ -4,6 +4,8 @@ ff
 
 [project presentation PDF](ml_project_presentation.pdf)
 
+[blog post](https://nycdatascience.com/blog/meetup/predicting-home-prices-with-machine-learning-regression-models/)
+
 ### Workflow
 
 <img src="./assets/ml_workflow.png" width="650">
